@@ -24,7 +24,8 @@ library
                        Liquid.GHC.Real,
                        Liquid.GHC.Types,
                        Liquid.Prelude,
-                       LiquidHaskell.Prelude
+                       LiquidHaskell.Prelude,
+                       LiquidHaskell.Qualifiers
   other-modules:       Liquid.GHC.Integer.Type
   build-depends:       base,
                        ghc-prim,
